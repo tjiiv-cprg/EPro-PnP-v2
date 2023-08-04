@@ -1,4 +1,4 @@
-# EPro-PnP-v2
+# EPro-PnP v2
 
 This repository contains the upgraded code for the CVPR 2022 paper [EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP), featuring improved models for both the 6DoF and 3D detection benchmarks. 
 
@@ -34,7 +34,7 @@ At the time of submission (Aug 30, 2022), EPro-PnP-Det v2 **ranks 1st** among al
 
 Main differences to [v1b](https://github.com/tjiiv-cprg/EPro-PnP/tree/main/EPro-PnP-6DoF):
 
-- Fix w2d scale handling **(very important)**
+- Improve w2d scale handling **(very important)**
 - Improve network initialization
 - Adjust loss weights
 
